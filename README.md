@@ -17,7 +17,7 @@
 
 Users should be able to:
 
-- Be able to visit website on different devices
+- Visit website on different devices
 - Navigate through website with links in navigation bar
 - See animations and transitions to improve their experience
 
