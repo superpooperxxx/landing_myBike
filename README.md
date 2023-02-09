@@ -1,4 +1,4 @@
-# Planets facts website
+# myBike landing page
 
 ## Table of contents
 
